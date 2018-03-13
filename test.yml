@@ -1,4 +1,0 @@
----
-- hosts: RaspberryPi
-  roles:
-    - command-center-deploy
